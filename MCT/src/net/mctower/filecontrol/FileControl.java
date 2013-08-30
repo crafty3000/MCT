@@ -29,7 +29,8 @@ public class FileControl {
 	}
 
 	Plugin p;
-
+	//HI there
+	
 	public static YamlConfiguration ChatFilterYaml;
 	public static File ChatFilterFile;
 

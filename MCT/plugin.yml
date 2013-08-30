@@ -1,0 +1,5 @@
+name: MCTower
+main: net.mctower.main.Main
+version: 1.1.1
+authors: [crafty3000] 
+database: false

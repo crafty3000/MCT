@@ -36,7 +36,7 @@ public class PlayerInterface implements Listener{
 	public static Inventory PlayerInterface;
 	public static Inventory Emotions;
 	public static HashMap<Player, Player> ActivePlayerIteraction = new HashMap<Player, Player>();
-	
+	//sssssssssssssssssssssssssssssssssss
 	
 	public static void Interface(Player player, Player target) {
 		ActivePlayerIteraction.put(player, target);
